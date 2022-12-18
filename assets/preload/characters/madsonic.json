@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-310,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "madsonic Left"
+		},
+		{
+			"offsets": [
+				-310,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "madsonic Down"
+		},
+		{
+			"offsets": [
+				-310,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "madsonic Up"
+		},
+		{
+			"offsets": [
+				-310,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "madsonic Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-310,
+				260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "madsonic Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadSonic_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "madsonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		107,
+		255
+	],
+	"camera_position": [
+		190,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

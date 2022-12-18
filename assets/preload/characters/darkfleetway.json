@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				610
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "darkfleet Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				610
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "darkfleet LeftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				610
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "darkfleet DownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				610
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "darkfleet UpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				610
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "darkfleet RightMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "darkfleet Left"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "darkfleet Down"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "darkfleet Up"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "darkfleet Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkFleetway_Assets",
+	"position": [
+		-370,
+		350
+	],
+	"healthicon": "dfleetway",
+	"flip_x": true,
+	"healthbar_colors": [
+		106,
+		35,
+		150
+	],
+	"camera_position": [
+		-50,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

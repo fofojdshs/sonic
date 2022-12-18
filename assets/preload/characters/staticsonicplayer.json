@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "unknownsonic Idle"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "unknownsonic Left"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "unknownsonic Down"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "unknownsonic Up"
+		},
+		{
+			"offsets": [
+				65,
+				610
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "unknownsonic Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Unknown_Assets",
+	"position": [
+		-370,
+		350
+	],
+	"healthicon": "test",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-50,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
