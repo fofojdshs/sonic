@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "mind",
+		"player1": "xainplayer",
+		"player2": "sadsonic",
+		"player3": null,
+		"events": [
+			[
+				36857.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				37285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				40285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				40714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				53357.1428571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"madsonic"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				130285.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.83",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"sadsonic"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "null",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Lost my mind"
+	}
+}
