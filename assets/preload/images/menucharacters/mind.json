@@ -1,0 +1,11 @@
+{
+	"idle_anim": "mind animation",
+	"image": "mind",
+	"position": [
+		170,
+		14
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

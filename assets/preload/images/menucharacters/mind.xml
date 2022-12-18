@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mind.png">
+<SubTexture name="mind animation0000" x="0" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="mind animation0001" x="0" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="mind animation0002" x="0" y="386" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="mind animation0003" x="0" y="386" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+</TextureAtlas>
