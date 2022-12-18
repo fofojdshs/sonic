@@ -1,0 +1,41 @@
+{
+	"storyName": "spooky scary hedgehogs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mind",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Lost my mind",
+			"xain",
+			[
+				66,
+				73,
+				115
+			]
+		],
+		[
+			"Breaking point",
+			"dfleetway",
+			[
+				66,
+				73,
+				155
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Mind Week",
+	"hiddenUntilUnlocked": false
+}
